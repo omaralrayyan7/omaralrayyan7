@@ -1,6 +1,6 @@
 # Hi, I'm Omar Alrayyan 👋
 
-Software Engineering graduate (B.Sc., Applied Science Private University — Jul 2026) building cross-platform mobile & full-stack systems with **Flutter**, **ASP.NET Core**, and **SQL**. I developed **JoRide**, an IoT-integrated ride-sharing platform, end-to-end across mobile, backend, database, and GPS hardware — and completed engineering internships at Link Solutions and Hope International shipping production ASP.NET / C# / JavaScript features.
+Software Engineer (B.Sc., Applied Science Private University — Jul 2026) building cross-platform mobile & full-stack systems with **Flutter**, **ASP.NET Core**, and **SQL**. I developed **JoRide**, an IoT-integrated ride-sharing platform, end-to-end across mobile, backend, database, and GPS hardware — and completed engineering internships at Link Solutions and Hope International shipping production ASP.NET / C# / JavaScript features.
 
 - 🎓 B.Sc. Software Engineering, Applied Science Private University (2022–2026)
 - 🚕 Currently building **JoRide**, incubated as a university-backed startup, pitched at Fintech, JSYP, and NTP competitions
